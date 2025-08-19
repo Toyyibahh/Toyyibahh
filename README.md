@@ -1,4 +1,3 @@
-[!Masterhead](https://www.freepik.com/free-vector/illustration-social-media-concept_2807765.htm#fromView=keyword&page=1&position=31&uuid=25fef3ef-19a3-4d61-84a6-18a9e4668373&query=Big+Data)
 
 
 
