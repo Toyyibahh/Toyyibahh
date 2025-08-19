@@ -2,11 +2,6 @@
 
 
 
-
-
-
-
-
 <h1 align="center">🙋🏽‍♀️👩🏾‍💻, Introducing myself</h1>
 <h3 align="center">🌟 Data Analyst |SQL, Excel, Tableau, R| Interested in digital transformations within industry system</h3>
 
